@@ -27,25 +27,25 @@ Profyndr harnesses advanced AI models and analysis services to offer users perso
 
 **Project Categories:** Projects are categorized by industry, skill level, and type (e.g., coding, marketing, design, research). Users can easily find and select projects that match their interests and goals.
 
-**User Engagement:**
+## User Engagement:
 
 **Project Selection:** Users can browse available projects and express their interest by sending project requests to mentors. The selection process empowers users to choose projects that resonate with their career ambitions.
 
 **Project Progress Tracking:** Profyndr provides tools to track project progress. Users can submit updates, seek mentor feedback, and communicate with mentors throughout the project's duration.
 
-**Mentor Engagement:**
+## Mentor Engagement:
 
 **Project Review:** Mentors actively review users' project work, offering guidance, insights, and constructive feedback. They play a pivotal role in users' skill development and career growth.
 
 **Signoff and Endorsement:** Upon successful project completion, mentors digitally sign off on the user's work, certifying that the user has acquired valuable experience and skills through the project.
 
-**User Benefits:**
+## User Benefits:
 
 **Resume Building:** Users can showcase completed projects, complete with mentor signoff and endorsements, on their resumes. This feature enhances their professional credentials and makes them more appealing to potential employers.
 
 **LinkedIn Integration:** Users can seamlessly import completed projects and mentor endorsements from Profyndr to their LinkedIn profiles, strengthening their online professional presence.
 
-**Feedback and Ratings:**
+## Feedback and Ratings:
 
 **User Ratings:** Users have the opportunity to rate their mentor's guidance and the overall project experience. These ratings provide valuable insights to other users.
 
