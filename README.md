@@ -1,6 +1,6 @@
-**Project Description: Profyndr - Empowering Careers Through Mentorship and Hands-On Projects**
+# Profyndr - Empowering Careers Through Mentorship and Hands-On Projects
 
-Profyndr is a transformative platform designed to bridge the gap between college students, early career professionals, and experienced mentors. It provides mentorship and real-world career development opportunities through a combination of innovative features, including hands-on projects that can be signed off by mentors.
+**Project Description:** Profyndr is a transformative platform designed to bridge the gap between college students, early career professionals, and experienced mentors. It provides mentorship and real-world career development opportunities through a combination of innovative features, including hands-on projects that can be signed off by mentors.
 
 **Core Features:**
 
